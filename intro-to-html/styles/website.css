@@ -1,0 +1,38 @@
+.money {
+  color:rgb(0, 118, 0);
+  font-weight: bold;
+}
+.crt {
+  background-color: rgb(255, 216, 20);
+  border:none;
+  height: 30px;
+  width: 100px;
+  border-radius: 15px;
+  margin-right: 5px;
+  cursor:pointer;
+  transition-duration: 0,3s;
+}
+.crt:hover {
+  background-color: rgb(250, 208, 0);;
+}
+.crt:active {
+  opacity: 0.9;
+}
+.buy {
+  background-color: rgb(255, 164, 28);
+  height: 30px;
+  width: 100px;
+  border-radius: 15px;
+  border:none;
+  cursor:pointer;
+}
+.buy:hover {
+  background-color: rgb(252, 151, 0);;
+}
+.buy:active{
+  opacity: 0.9;
+}
+
+.link:hover {
+  color: rgb(233, 3, 3);
+}

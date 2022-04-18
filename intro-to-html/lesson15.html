@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Lesson 15
+    </title>
+    <style>
+      body {
+        height: 3000px;
+      }
+      .close {
+        border-radius: 22px;
+        position: absolute;
+        left:-15px;
+        top: -10px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        background-color: black;
+        color:white;
+        padding-left: 11px;
+        padding-right: 11px;
+      }
+      .graybox {
+        width: 320px;
+        height: 180px;
+        position: fixed;
+        bottom: 15px;
+        right:15px;
+        background-color: gray;
+      }
+      .timestamp {
+        position: absolute;
+        bottom: 5px;
+        right:5px;
+        font-family: Arial;
+        background-color: black;
+        color: white;
+        padding-top:5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+      .t-shirt {
+        position: relative;
+        margin-left: 30px;
+        margin-top: 30px;
+        border-color: rgb(0, 0, 0);
+        border-style: solid;
+        display: inline-block;
+        border-width: 1px;
+      }
+      .ukr {
+        width: 250px;
+      }
+      .shop {
+        position: absolute;
+        top:10px;
+        right: 0px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 7px;
+        padding-right: 7px;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+      }
+      .cart {
+        display: flex;
+        position: absolute;
+        bottom:0px;
+        height: 90px;
+        left: 0;
+        right: 0;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(26, 82, 0, 0.63);
+      }
+      .add {
+        font-family: Arial;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+        background-color: white;
+        font-weight: 600;
+        border-radius: 3px;
+        border-style: solid;
+        border-color: rgb(42, 87, 0);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="t-shirt">
+      <img class="ukr" src="41273_225_01.webp">
+      <div class="shop">20% OFF</div>
+      <div class="cart">
+        <button class="add">
+          Add to Cart
+        </button>
+      </div>
+    </div>
+    
+    <div class="graybox">
+      <div class="close">
+        X
+      </div>
+      <div class="timestamp">
+        0:29
+      </div>
+    </div>
+  </body>
+</html>

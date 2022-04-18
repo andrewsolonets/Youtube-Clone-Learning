@@ -1,0 +1,11 @@
+.all {
+  font-family: Montserrat;
+  text-align: center;
+}
+.heading {
+  font-weight: bold;
+  margin-bottom:0px;
+}
+.under {
+  text-decoration: underline;
+}

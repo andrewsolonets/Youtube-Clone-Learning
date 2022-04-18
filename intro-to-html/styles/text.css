@@ -1,0 +1,217 @@
+p {
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.author {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.descr {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.apple {
+  color: white;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.span-ex:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.tahoma {
+  font-weight: bold;
+  font-family: Tahoma;
+  margin-bottom: 50px;
+}
+
+.verdt {
+  font-family: Verdana;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.verdc {
+  font-family: Verdana;
+  font-size: 17px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.verdd {
+  font-family: Verdana;
+  width: 280px;
+  margin-bottom: 20px;
+}
+
+.getst {
+  color: white;
+  background-color: rgb(24, 209, 0);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  font-family: Verdana;
+  font-size: 17px;
+  margin-bottom: 50px;
+}
+
+.arial {
+  font-family: Arial;
+  margin-bottom: 8px;
+}
+
+.arial2 {
+  color: red;
+  font-family: Arial;
+  font-size: 17px;
+  margin-bottom: 50px;
+}
+
+.arial3 {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.arial4 {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.arial5 {
+  text-align: center;
+  color: rgb(68, 68, 255);
+  margin-bottom: 100px;
+}
+
+.arial5:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.apple1 {
+  color: orangered;
+  font-size: 10px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.apple2 {
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.apple3 {
+  font-family: Arial;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 750;
+  margin-bottom: 10px;
+}
+
+.apple4 {
+  text-align: center;
+  font-family: Arial;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.butapple {
+  background-color: rgb(46, 46, 255);
+  color: white;
+  font-size: 13px;
+  border-radius: 20px;
+  border: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 284px;
+  margin-bottom: 200px;
+}
+
+.google1 {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: 540;
+  margin-bottom: 5px;
+}
+
+.usd {
+  color: rgb(96, 96, 96);
+  font-family: Arial;
+  font-size: 19px;
+}
+
+.google2 {
+  color: rgb(6, 187, 21);
+  font-size: 15px;
+  font-family: Arial;
+  margin-bottom: 5px;
+}
+
+.google3 {
+  color: rgb(96, 96, 96);
+  font-size: 15px;
+  font-family: Arial;
+  margin-bottom: 200px;
+}
+
+.redgg {
+  color: red;
+}
+
+.freec1 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sp1 {
+  color: rgb(96, 96, 96);
+  font-weight: normal;
+}
+
+.freec2 {
+  width: 500px;
+  margin-bottom: 25px;
+}
+
+.sp2 {
+  color: rgb(87, 87, 255);
+}

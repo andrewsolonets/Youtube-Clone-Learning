@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Lesson 14
+    </title>
+    <style>
+      body {
+        font-family: Arial;
+        height: 3000px;
+      }
+      .firsta {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: black;
+        color:white;
+      }
+      .twob {
+        position: fixed;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: green;
+        color: white;
+        width:100px
+      }
+      .three {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0,0,0,0.8)
+      }
+      .threeb {
+        border-radius: 10px;
+        width: 500px;
+        height: 150px;
+        background-color: white;
+      }
+      .title {
+        padding-left: 20px;
+        padding-top: 20px;
+        font-weight: bold;
+        font-size: 32px;
+      }
+      .content {
+        padding-left: 20px;
+        font-size: 20px;
+        padding-top: 10px;
+      }
+      .close {
+        margin-top: 20px;
+        margin-left: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="firsta">
+      bottom-right
+    </div>
+
+    <div class="twob">
+      right sidebar
+    </div>
+
+
+    <div class="three">
+      <div class="threeb">
+        <div class="title">
+          Modal Title
+        </div>
+        <div class="content">
+          This is a modal
+        </div>
+        <button class="close">
+          Close
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
